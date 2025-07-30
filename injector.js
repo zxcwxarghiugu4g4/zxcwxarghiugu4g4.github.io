@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const imagenes = [
-    "htt"
+    ""
   ];
 
   const galeria = document.querySelector('.gallery');
